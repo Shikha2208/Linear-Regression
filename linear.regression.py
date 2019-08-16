@@ -29,7 +29,7 @@ plt.rcParams['figure.figsize']=(20.0,10.0)
 # In[32]:
 
 
-data=pd.read_csv('E:/SHIKHA_FOLDER/linearregression/headbrain.csv')
+data=pd.read_csv('headbrain.csv')
 
 
 # In[33]:
